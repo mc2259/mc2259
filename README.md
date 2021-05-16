@@ -3,6 +3,9 @@
  
 I am Maitreyi, a sophomore CS Major at Cornell. I like coding and writing poems.
 
+Here is my blog:
+https://sugarroseweb.wordpress.com/
+
 
 Here is a link to my website: [mc2259.github.io]( https://mc2259.github.io/)
 
