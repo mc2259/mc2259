@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">
+</hr>
 
  
 I am Maitreyi, a sophomore CS Major at Cornell. I like coding and writing poems.
