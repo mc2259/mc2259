@@ -21,16 +21,13 @@ Here is a link to my website: [mc2259.github.io]( https://mc2259.github.io/)
 - 😄 Pronouns: ... She, Her, Herself
 - ⚡ Fun fact: ... I love playing the piano!
 
+## Tools I use
 <table>
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
         <span>𝗖</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/c.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗖++</span><br><br><br>
-        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png">
       </td>
       <td width="25%" align="center">
         <span>Python</span><br><br><br>
@@ -46,18 +43,19 @@ Here is a link to my website: [mc2259.github.io]( https://mc2259.github.io/)
         <span>Github</span><br><br><br>
         <img height="64px" src="https://image.flaticon.com/icons/svg/25/25231.svg">
       </td>
-       <td width="25%" align="center">
-        <span>Jupyter Notebook</span><br><br><br>
-        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/518px-Jupyter_logo.svg.png">
-      </td>
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
         <span>Google Colab</span><br><br><br>
         <img height="64px" src="https://learnworthy.net/wp-content/uploads/2020/02/Getting-the-most-out-of-Google-Colab-1280x720.png">
       </td>
+            <td width="25%" align="center">
+        <span>Jupyter Notebook</span><br><br><br>
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/518px-Jupyter_logo.svg.png">
+      </td>
+   </tr>
       
-    </tr>
+ 
   </tbody>
 </table>
 
