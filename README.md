@@ -20,8 +20,8 @@ Here is a link to my website: [mc2259.github.io]( https://mc2259.github.io/)
 
 🔭 I’m currently working on ... NLP , Machine Learning Computer Vision
 - 🌱 I’m currently learning ...  Research ...
-- 😄 Pronouns: ... She, Her, Herself
-- ⚡ Fun fact: ... I love playing the piano!
+- 😄 Pronouns: She, Her, Herself
+- ⚡ Fun fact: I love playing the piano!
 
 
 ## Tools and languages I use
