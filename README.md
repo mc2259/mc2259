@@ -1,10 +1,5 @@
 <h2> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width ="200px"> Hello world</h2>
 
-
-
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mc2259&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40">
-
  
 I am Maitreyi, a recent graduate from Cornell. I am currently working at LinkedIn and I love building things. I co-founded 2 startups during my time at Cornell; CodeBozu and Nylon, and we won the Student Business Of The Year award for CodeBozu. I ♥️ coding and writing poems.
 I am also interested in NLP and Information Extraction and am conducting research under Claire Cardie
